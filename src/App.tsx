@@ -9,7 +9,7 @@ function App() {
             <img src="https://img4.thuthuatphanmem.vn/uploads/2020/07/05/background-cong-nghe-full-hd_035953614.jpg" alt="" />
           </div>
           <div className="prf_img">
-            <img src="https://www.facebook.com/photo/?fbid=1005671037318574&set=a.101353124417041" alt="" />
+            <img src="../img/img1.jpg" alt="" />
           </div>
         </div>
         <div className="content">

@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-image: url("https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/Pen0000000/php3Y3Q7b.jpeg");
+}
+
+.container {
+  width: 500px;
+  overflow: hidden;
+  border-radius: 6%;
+  padding: 0 0 100px;
+  border: 1px solid #333;
+  background: linear-gradient(150deg, #004aad 60%, cyan);
+}
+
+.banner {
+  position: relative;
+}
+
+.prf_bgr {
+  height: 200px;
+  overflow: hidden;
+}
+
+.prf_bgr img {
+  width: 100%;
+}
+
+.prf_img {
+  bottom: -10%;
+  right: 55%;
+  width: 160px;
+  height: 160px;
+  overflow: hidden;
+  position: absolute;
+  border-radius: 100%;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.8);
+}
+
+.prf_img img {
+  width: 100%;
+}
+
+
+.prf_name {
+  color: #fff;
+  padding: 20px;
+  background-color: #004aad;
+}
+
+.content {
+  margin: 40px 40px 0;
+}
+
+.content p {
+  color: #fff;
+  padding: 10px;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}

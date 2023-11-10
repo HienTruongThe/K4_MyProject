@@ -1,4 +1,4 @@
-import './App.css'
+import './App.css';
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
             <img src="https://img4.thuthuatphanmem.vn/uploads/2020/07/05/background-cong-nghe-full-hd_035953614.jpg" alt="" />
           </div>
           <div className="prf_img">
-            <img src="../public/img/387741847_1005671027318575_1815665505677506037_n.jpg" alt="" />
+            <img src="../img/img1.jpg" alt="" />
           </div>
         </div>
         <div className="content">
